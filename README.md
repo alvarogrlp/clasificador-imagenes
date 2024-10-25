@@ -1,5 +1,5 @@
 # Reservas Restaurante
-# Descripción del proyecto
+## Descripción del proyecto
 La idea princial es lograr que los clientes de un restaurante puedan reservar la mesa que desean dentro de las horas disponibles, en caso de que la mesa no esté disponible a la hora deseada no se podrá seleccionar, además los restaurantes tendrán la posibilidad de añadir su carta a la aplicación para que los clientes puedan consultarla desde la misma.
 
 Las funcionalidades principales son:
