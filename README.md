@@ -77,13 +77,78 @@ Las funcionalidades principales son:
 
 |  Caso de Uso	CU.1 | Ver disponibilidad  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | Este documento  |
+  | Actor  |  Usuario |
+  | Descripción | Consultar la disponibilidad de las reservas  |
+  | Flujo básico | Ver disponibilidad - Realizar reserva |
+  | Pre-condiciones | Nada  |  
+  | Post-condiciones  | Realizar la reserva  |  
+  |  Requerimientos | No hay |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
+
+  |  Caso de Uso	CU.2 | Mirar menú  |
+  |---|---|
+  | Fuentes  | Este documento  |
+  | Actor  |  Usuario |
+  | Descripción | Ver el menú del restaurante  |
+  | Flujo básico | Mirar menú - Ver disponibilidad - Realizar reserva |
+  | Pre-condiciones | Nada |  
+  | Post-condiciones  | Ver disponibilidad  |  
+  |  Requerimientos | No hay |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
+
+  |  Caso de Uso	CU.3 | Reservar mesa  |
+  |---|---|
+  | Fuentes  | Este documento  |
+  | Actor  |  Usuario |
+  | Descripción | Realizar la reserva de una mesa del restaurante  |
+  | Flujo básico | Realizar reserva |
+  | Pre-condiciones | Ver disponibilidad  |  
+  | Post-condiciones  | Realizar la reserva  |  
+  |  Requerimientos | Estar resgistrado y que haya disponibilidad |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
+
+  |  Caso de Uso	CU.4 | Llamar al restaurante  |
+  |---|---|
+  | Fuentes  | Este documento  |
+  | Actor  |  Usuario |
+  | Descripción | Llamar al restaurante  |
+  | Flujo básico | Llamar al restaurante |
+  | Pre-condiciones | Nada  |  
+  | Post-condiciones  | Nada  |  
+  |  Requerimientos | No hay |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
+
+  |  Caso de Uso	CU.5 |  Elegir restaurante  |
+  |---|---|
+  | Fuentes  | Este documento  |
+  | Actor  |  Usuario |
+  | Descripción | Elegir entre los diferentes restaurantes que hay en la app  |
+  | Flujo básico | Elegir restaurante |
+  | Pre-condiciones | Nada  |  
+  | Post-condiciones  | Nada  |  
+  |  Requerimientos | No hay |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
+
+  |  Caso de Uso	CU.1 | Añadir el menú  |
+  |---|---|
+  | Fuentes  | Este documento  |
+  | Actor  |  Restaurante |
+  | Descripción | Añadir el menú del restaurante  |
+  | Flujo básico | Añadir restaurante |
+  | Pre-condiciones | Nada  |  
+  | Post-condiciones  | Nada  |  
+  |  Requerimientos | Estar dado de alta como restaurante |
+  |  Notas |  No hay |
+  | Autor  | Alvaro Garcia Lopez |
+  | Fecha | 05/11/2024 |
