@@ -152,3 +152,19 @@ Las funcionalidades principales son:
   |  Notas |  No hay |
   | Autor  | Alvaro Garcia Lopez |
   | Fecha | 05/11/2024 |
+
+
+  ## Actores
+  - **Usuario**: 
+    - Persona que utiliza la aplicación para buscar restaurantes y realizar reservas.
+  - **Restaurante**: 
+    - Propietario que utiliza la aplicación para añadir su restaurante y gestionar sus reservas.
+  - **Administrador**: 
+    - Usuario encarado de gestionar la app y resolver incidencias.
+
+  ## Operaciones que pueden realizar
+  **Usuario**: Iniciar sesión, realizar pagos, modificar perfil, mensualidad de pago con descuentos y realizar reservas.
+
+  **Restaurante**: Añadir menú, modificar menú, eliminar menú, ver reservas realizadas y modificar reservas.
+
+  **Administrador**: Ver estadísticas de ventas, ver estadísticas de usuarios, ver informacion de restaurantes,  eliminar restaurantes y eliminar usuarios.
