@@ -168,3 +168,6 @@ Las funcionalidades principales son:
   **Restaurante**: Añadir menú, modificar menú, eliminar menú, ver reservas realizadas y modificar reservas.
 
   **Administrador**: Ver estadísticas de ventas, ver estadísticas de usuarios, ver informacion de restaurantes,  eliminar restaurantes y eliminar usuarios.
+
+  ## Diagrama de Paquetes
+<img src="diagrama-paquete.png">
