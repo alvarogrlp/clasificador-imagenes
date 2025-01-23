@@ -23,7 +23,7 @@ Las funcionalidades principales son:
 
 ## Diagrama de Casos de Uso de la biblioteca
 
-<img src="casos-uso.drawio.png">
+<img src="images/casos-uso.drawio.png">
 
 ## Especificaicón de Casos de uso de las reservas
 
@@ -170,4 +170,4 @@ Las funcionalidades principales son:
   **Administrador**: Ver estadísticas de ventas, ver estadísticas de usuarios, ver informacion de restaurantes,  eliminar restaurantes y eliminar usuarios.
 
   ## Diagrama de Paquetes
-<img src="imagen/diagrama--paquete.png">
+<img src="images/diagrama--paquete.png">
