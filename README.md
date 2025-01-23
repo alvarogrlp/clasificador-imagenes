@@ -170,4 +170,4 @@ Las funcionalidades principales son:
   **Administrador**: Ver estadísticas de ventas, ver estadísticas de usuarios, ver informacion de restaurantes,  eliminar restaurantes y eliminar usuarios.
 
   ## Diagrama de Paquetes
-<img src="diagrama--paquete.png">
+<img src="imagen/diagrama--paquete.png">
